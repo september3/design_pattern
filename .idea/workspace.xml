@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66541f81-e792-43c1-a7d9-29a1493309ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/FECourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/Geely.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/PythonCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66541f81-e792-43c1-a7d9-29a1493309ee" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,58 +15,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/com.design.principle.dependenceinversion">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.design.principle.dependenceinversion</OriginalElement>
-              <nodes>
-                <node x="180.5" y="0.0">com.design.principle.dependenceinversion.ICourse</node>
-                <node x="237.0" y="205.0">com.design.principle.dependenceinversion.Test</node>
-                <node x="175.0" y="105.0">com.design.principle.dependenceinversion.PythonCourse</node>
-                <node x="361.0" y="105.0">com.design.principle.dependenceinversion.FECourse</node>
-                <node x="0.0" y="105.0">com.design.principle.dependenceinversion.JavaCourse</node>
-                <node x="0.0" y="205.0">com.design.principle.dependenceinversion.Geely</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.design.principle.dependenceinversion.JavaCourse" target="com.design.principle.dependenceinversion.ICourse">
-                  <point x="0.0" y="-27.5" />
-                  <point x="77.5" y="80.0" />
-                  <point x="206.33333333333334" y="80.0" />
-                  <point x="-51.66666666666666" y="27.5" />
-                </edge>
-                <edge source="com.design.principle.dependenceinversion.PythonCourse" target="com.design.principle.dependenceinversion.ICourse">
-                  <point x="0.0" y="-27.5" />
-                  <point x="0.0" y="27.5" />
-                </edge>
-                <edge source="com.design.principle.dependenceinversion.FECourse" target="com.design.principle.dependenceinversion.ICourse">
-                  <point x="0.0" y="-27.5" />
-                  <point x="438.5" y="80.0" />
-                  <point x="309.66666666666663" y="80.0" />
-                  <point x="51.66666666666663" y="27.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="239.0" y="95.5" />
-              <SelectedNodes>
-                <node>com.design.principle.dependenceinversion.JavaCourse</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -187,17 +128,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="design" type="462c0819:PsiDirectoryNode" />
               <item name="principle" type="462c0819:PsiDirectoryNode" />
-              <item name="dependenceinversion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
               <item name="openclose" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -211,7 +141,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -263,29 +193,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557299370819</updated>
-      <workItem from="1557299374130" duration="3307000" />
+      <workItem from="1557299374130" duration="3600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3307000" />
+    <option name="totallyTimeSpent" value="3600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32935154" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.5392491" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5392491" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -466,36 +395,17 @@
           <ID>JAVA</ID>
           <OriginalElement>com.design.principle.dependenceinversion</OriginalElement>
           <nodes>
-            <node x="180.5" y="0.0">com.design.principle.dependenceinversion.ICourse</node>
-            <node x="237.0" y="205.0">com.design.principle.dependenceinversion.Test</node>
-            <node x="175.0" y="105.0">com.design.principle.dependenceinversion.PythonCourse</node>
-            <node x="361.0" y="105.0">com.design.principle.dependenceinversion.FECourse</node>
-            <node x="0.0" y="105.0">com.design.principle.dependenceinversion.JavaCourse</node>
-            <node x="0.0" y="205.0">com.design.principle.dependenceinversion.Geely</node>
+            <node x="" y="">com.design.principle.dependenceinversion.ICourse</node>
+            <node x="" y="">com.design.principle.dependenceinversion.Test</node>
+            <node x="" y="">com.design.principle.dependenceinversion.PythonCourse</node>
+            <node x="" y="">com.design.principle.dependenceinversion.FECourse</node>
+            <node x="" y="">com.design.principle.dependenceinversion.JavaCourse</node>
+            <node x="" y="">com.design.principle.dependenceinversion.Geely</node>
           </nodes>
           <notes />
-          <edges>
-            <edge source="com.design.principle.dependenceinversion.JavaCourse" target="com.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-27.5" />
-              <point x="77.5" y="80.0" />
-              <point x="206.33333333333334" y="80.0" />
-              <point x="-51.66666666666666" y="27.5" />
-            </edge>
-            <edge source="com.design.principle.dependenceinversion.PythonCourse" target="com.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-27.5" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="com.design.principle.dependenceinversion.FECourse" target="com.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-27.5" />
-              <point x="438.5" y="80.0" />
-              <point x="309.66666666666663" y="80.0" />
-              <point x="51.66666666666663" y="27.5" />
-            </edge>
-          </edges>
+          <edges />
           <settings layout="Hierarchic Group" zoom="1.0" x="239.0" y="95.5" />
-          <SelectedNodes>
-            <node>com.design.principle.dependenceinversion.JavaCourse</node>
-          </SelectedNodes>
+          <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
             <Category>Constructors</Category>
