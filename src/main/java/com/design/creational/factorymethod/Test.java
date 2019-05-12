@@ -1,4 +1,4 @@
-package com.design.creational.FactoryMethod;
+package com.design.creational.factorymethod;
 
 public class Test {
     public static void main(String[] args) {

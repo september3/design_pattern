@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66541f81-e792-43c1-a7d9-29a1493309ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/EnumInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/StaticInnerClassSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ThreadLocalInstance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/design/principle/openclose/ICourse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/design/principle/openclose/JavaCourse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/design/principle/openclose/JavaDiscountCourse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/design/principle/openclose/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/FEVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/FEVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/JavaVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/JavaVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/JavaVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/PythonVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/PythonVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/PythonVideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/PythonVideoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/VideoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/VideoFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,51 +25,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/T.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ContainerSingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/EnumInstance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,13 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/FlyBird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/ICourseContent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/ICourseManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/Method.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/WalkBird.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/CourseImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/Bird.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/Dog.java" />
@@ -138,9 +83,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Course.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Course.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/T.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ContainerSingleton.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ContainerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/EnumInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/StaticInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ThreadLocalInstance.java" />
       </list>
     </option>
   </component>
@@ -225,73 +177,7 @@
             </path>
             <path>
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="collect" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,7 +190,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/design/creational" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/design/structural" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -365,12 +251,12 @@
       <workItem from="1557371396407" duration="18000" />
       <workItem from="1557641576493" duration="4275000" />
       <workItem from="1557646110617" duration="277000" />
-      <workItem from="1557646422638" duration="336000" />
+      <workItem from="1557646422638" duration="2032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14497000" />
+    <option name="totallyTimeSpent" value="16193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -411,48 +297,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/IAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/IFlyAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/interfacesegregation/ISwimAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/demeter/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/demeter/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -520,63 +364,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/FEVideo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/FEVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/FEVideoFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/FEVideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/JavaVideo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/JavaVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/PythonVideo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/PythonVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/PythonVideoFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/PythonVideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/Video.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/Video.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/VideoFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/VideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/FactoryMethod/JavaVideoFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/factorymethod/JavaVideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -911,10 +755,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/EnumInstance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="206">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
             <element signature="e#208#209#0" expanded="true" />
@@ -922,27 +773,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ContainerSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        <state relative-caret-position="418">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/ThreadLocalInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/singleton/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>

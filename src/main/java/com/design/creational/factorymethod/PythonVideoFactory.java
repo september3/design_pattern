@@ -1,4 +1,4 @@
-package com.design.creational.FactoryMethod;
+package com.design.creational.factorymethod;
 
 
 public class PythonVideoFactory extends VideoFactory {
