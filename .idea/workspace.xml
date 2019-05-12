@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66541f81-e792-43c1-a7d9-29a1493309ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/JavaArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/PythonArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/CourseActualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/CourseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,20 +24,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/sql/Connection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#72195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,14 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/openclose/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/openclose/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/openclose/JavaDiscountCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/Geely.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/FECourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/PythonCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/principle/dependenceinversion/ICourse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/Bird.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/FlyBird.java" />
@@ -107,6 +84,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/PythonVideo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory/Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Coach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/CourseActualBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/CourseBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Course.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Test.java" />
       </list>
     </option>
   </component>
@@ -186,17 +171,6 @@
             </path>
             <path>
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -209,18 +183,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/design/creational/abstractfactory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/design/creational/builder" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA0\design_pattern\src\main\java\com\design\creational\builder" />
       <recent name="F:\IDEA0\design_pattern\src\main\java\com\design\creational\abstractfactory" />
       <recent name="F:\IDEA0\design_pattern\src\main\java\com\design\creational\FactoryMethod" />
       <recent name="F:\IDEA0\design_pattern\src\main\java\com\design\creational\simplefactory" />
       <recent name="F:\IDEA0\design_pattern\src\main\java\com\design\principle\demeter" />
-      <recent name="F:\IDEA0\design_pattern\src\main\java\com\design\principle\interfacesegregation" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -268,19 +242,19 @@
       <workItem from="1557299374130" duration="9205000" />
       <workItem from="1557331858885" duration="386000" />
       <workItem from="1557371396407" duration="18000" />
-      <workItem from="1557641576493" duration="1693000" />
+      <workItem from="1557641576493" duration="3785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11302000" />
+    <option name="totallyTimeSpent" value="13394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26096824" />
-      <window_info active="true" id="Structure" order="1" side_tool="true" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -295,9 +269,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32935154" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5383305" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.53754264" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -315,84 +289,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/com.design.principle.dependenceinversion">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.design.principle.dependenceinversion</OriginalElement>
-          <nodes>
-            <node x="" y="">com.design.principle.dependenceinversion.ICourse</node>
-            <node x="" y="">com.design.principle.dependenceinversion.Test</node>
-            <node x="" y="">com.design.principle.dependenceinversion.PythonCourse</node>
-            <node x="" y="">com.design.principle.dependenceinversion.FECourse</node>
-            <node x="" y="">com.design.principle.dependenceinversion.JavaCourse</node>
-            <node x="" y="">com.design.principle.dependenceinversion.Geely</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="239.0" y="96.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/ICourseContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/ICourseManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/WalkBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/design/principle/singleresponsibility/FlyBird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -864,6 +760,66 @@
           <folding>
             <element signature="e#0#72195#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/CourseActualBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/CourseBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/Coach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/design/creational/builder/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
